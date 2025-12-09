@@ -46,8 +46,7 @@ Key features include:
 ## 🌐 Live Site (Netlify Deployment)
 
 🔗 **Live URL:**  
-https://cute-marshmallow-48c1bb.netlify.app/
----
+https://hipe-registration-fah.netlify.app/
 
 ## 📬 Form Submission (Formspree)
 
