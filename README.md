@@ -46,8 +46,7 @@ Key features include:
 ## 🌐 Live Site (Netlify Deployment)
 
 🔗 **Live URL:**  
- https://hipe-registration-venus.netlify.app/
-
+https://cute-marshmallow-48c1bb.netlify.app/
 ---
 
 ## 📬 Form Submission (Formspree)
